@@ -1,1 +1,1 @@
-# allows for lib import
+from .globalshutdown import GlobalShutdown
